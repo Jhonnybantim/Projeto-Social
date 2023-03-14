@@ -51,7 +51,8 @@ iframe#tela {
 }
 
 section#Redes-sociais {
-    text-align: right;
+    
+    text-align: end;
 }
 
 section#Redes-sociais img {
